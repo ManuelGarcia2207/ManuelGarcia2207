@@ -4,7 +4,6 @@
 - 💞️ Estoy buscando colaborar con más programadores y diseñadores para realizar proyectos en conjunto.
 - 📫 Puedes contactarme al correo manuelgarciamartinez2207@gmail.com
 
-<br>
 
 - 👋 Hi, I’m Manuel.
 - 👀 I’m interested in share my projects for reference as examples, I'm even open to feedback.
